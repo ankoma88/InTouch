@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "146462150717",
+    "firebase_url": "https://intouch-d3ffd.firebaseio.com",
+    "project_id": "intouch-d3ffd",
+    "storage_bucket": "intouch-d3ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146462150717:android:7dd5c126df8e3e0c",
+        "android_client_info": {
+          "package_name": "com.ankoma88.intouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146462150717-oj4bg61niurd99uu515408b5g65fdkna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvLsiKQT4zAwVNzAhMIWJ_2OpVruSL2oQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
